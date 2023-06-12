@@ -12,10 +12,11 @@ Sigue estos pasos para levantar el servidor Node.js y ejecutar la aplicación:
 
 1. Clona el repositorio de GitHub:
  
- ```bash git clone https://github.com/dcarvajal99/likeme.git ```
+ ```bash```
+ ```git clone https://github.com/dcarvajal99/likeme.git ```
 
 2. Navega hasta el directorio del backend:
-   ```bash
+   ```bash```
 cd likeme/backEnd
 
 3. Instala las dependencias del backend:
@@ -40,14 +41,3 @@ node index.js
 9. La aplicación ahora estará disponible en tu navegador en la dirección http://localhost:3000/.
 
 ¡Disfruta usando "Like Me"!
-
-| Paso | Comando |
-|------|---------|
-| 1.   | `git clone https://github.com/dcarvajal99/likeme.git` |
-| 2.   | `cd likeme/backEnd` |
-| 3.   | `npm install` |
-| 4.   | `node index.js` |
-| 5.   | Abre una nueva terminal y navega hasta el directorio principal del proyecto:<br>`cd likeme` |
-| 6.   | `npm install` |
-| 7.   | `npm start` |
-| 8.   | La aplicación ahora estará disponible en tu navegador en la dirección [http://localhost:3000/](http://localhost:3000/) |
