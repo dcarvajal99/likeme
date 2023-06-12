@@ -41,3 +41,13 @@ node index.js
 
 ¡Disfruta usando "Like Me"!
 
+| Paso | Comando |
+|------|---------|
+| 1.   | `git clone https://github.com/dcarvajal99/likeme.git` |
+| 2.   | `cd likeme/backEnd` |
+| 3.   | `npm install` |
+| 4.   | `node index.js` |
+| 5.   | Abre una nueva terminal y navega hasta el directorio principal del proyecto:<br>`cd likeme` |
+| 6.   | `npm install` |
+| 7.   | `npm start` |
+| 8.   | La aplicación ahora estará disponible en tu navegador en la dirección [http://localhost:3000/](http://localhost:3000/) |
