@@ -11,8 +11,8 @@ En este proyecto se realiza la integracion de un servidor node en donde se crean
 Sigue estos pasos para levantar el servidor Node.js y ejecutar la aplicación:
 
 1. Clona el repositorio de GitHub:
-   ```bash
-git clone https://github.com/dcarvajal99/likeme.git
+ 
+ ```bash git clone https://github.com/dcarvajal99/likeme.git ```
 
 2. Navega hasta el directorio del backend:
    ```bash
