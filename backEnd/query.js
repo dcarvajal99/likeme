@@ -2,8 +2,8 @@ const { json } = require('express');
 const { Pool } = require('pg');
 const pool = new Pool({
     host: 'localhost',
-    user: 'postgres',
-    password: 'Daxer_PEGA_200K',
+    user: '',
+    password: '',
     database: 'likeme',
     allowExitOnIdle: true
 });
